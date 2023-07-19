@@ -18,6 +18,16 @@ nav {
 nav h1 {
     float: left;
     line-height: 80px;
-    font-size: 35px;
-    
+    font-size: 25px;
+}
+
+nav ul {
+    float: right;
+    line-height: 80px;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 0 5px;
 }
