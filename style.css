@@ -5,3 +5,19 @@ margin: 0px;
 padding: 0px;
 font-family: 'Lumanosimo', cursive;
 }
+
+.container {
+    width: 85%;
+    margin: auto;
+}
+
+nav {
+    height: 80px;
+}
+
+nav h1 {
+    float: left;
+    line-height: 80px;
+    font-size: 35px;
+    
+}
