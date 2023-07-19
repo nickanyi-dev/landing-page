@@ -42,3 +42,13 @@ nav ul li a {
     color: #fff;
 
 }
+
+.hero-h1 {
+    color: #f9faf8;
+    font-size: 48px;
+}
+
+.hero-p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
