@@ -52,3 +52,11 @@ nav ul li a {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+button {
+    background-color: #3882f6;
+    color: #fff;
+    padding: 15px;
+    font-style: normal;
+    text-transform: uppercase;
+}
