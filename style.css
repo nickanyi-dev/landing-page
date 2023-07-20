@@ -148,6 +148,16 @@ blockquote {
 
 #call-to-action {
     background-color: #3882f6;
+    display: flex;
     margin: 10%;
+    border-radius: 15px;
+    color: #fff;
+    padding: 20px 50px;
+    justify-content: space-between;
     
+}
+
+#call-to-action button {
+    color: #fff;
+    border: 2px solid #fff;
 }
