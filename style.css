@@ -145,3 +145,9 @@ blockquote {
     justify-content: flex-end;
     padding-right: 20%;
 }
+
+#call-to-action {
+    background-color: #3882f6;
+    margin: 10%;
+    
+}
