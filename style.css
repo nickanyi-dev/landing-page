@@ -111,3 +111,23 @@ figure {
     display: flex;
     justify-content: center;
 }
+
+#quote {
+    height:auto;
+    display: flex;
+    flex-direction: column;
+    margin: 10%;
+}
+
+#quote blockquote {
+    font-size: 36px;
+    font-style: italic;
+    color: 1F2937;
+    font-weight: lighter;
+    width: 70%;
+    
+}
+
+#quote figcaption {
+    align-items: flex-end;
+}
